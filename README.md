@@ -3,19 +3,21 @@
 
 
 截图
-![演示视频1](./Screenshot_20240703_221535.jpg)
-![演示视频1](./Screenshot_20240703_221541.jpg)
-![演示视频1](./Screenshot_20240703_221544.jpg)
+
+![](./Screenshot_20240703_221535.jpg)
+![](./Screenshot_20240703_221541.jpg)
+![](./Screenshot_20240703_221544.jpg)
 
 
 
 文档
 [](./文档.doc)
 
+
+
+
 展示视频：
-[alt text](./Screenrecording_20240703_214902.mp4)
-
-
+[视频](https://www.bilibili.com/video/BV1HqNbzEEmz/)
 
 
 
