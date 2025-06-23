@@ -16,7 +16,13 @@
 
 
 
+
+
+
 展示视频：
+
+<video controls src="video.mp4" title="Title"></video>
+
 [视频](https://www.bilibili.com/video/BV1HqNbzEEmz/)
 
 
